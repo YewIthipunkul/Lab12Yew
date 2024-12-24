@@ -1,1 +1,2 @@
-# Lab12Yew
+# NAME: Ithipunkul Nuntawattanakorn
+# STUDENT ID: 670610792
